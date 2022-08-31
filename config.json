@@ -6,7 +6,7 @@
     "auto-night-skip": "false",
     "prefix": "",
     "login-enabled": "false",
-    "register-cmd": "/login afkafkafk afkafkafk",
+    "register-cmd": "register afkafkafk afkafkafk",
     "login-cmd": "/login afkafkafk",
     "loginmsg": "done",
     "auto-reconnect": "true",
